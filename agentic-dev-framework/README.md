@@ -8,11 +8,11 @@ Yep, kind of very meta ;)
 
 ## Project structure
 
-- `GEMINI.md` contain the prompt to combine the guidelines building block and assemble the final framework in the `output` directory
+- [GEMINI.md](GEMINI.md) contain the prompt to combine the guidelines building block and assemble the final framework in the `output` directory
 
-- `block-01-framework_version.md` contain the version of the framework
-- `block-01-gemini_md.md` defines the instuctions to build the final GEMINI.md framework file
-- `block-03-documentation.md` defines how to organize the documentation of the project
+- [block-01-framework_version.md](block-01-framework_version.md) contain the version of the framework
+- [block-01-gemini_md.md](block-01-gemini_md.md) defines the instuctions to build the final GEMINI.md framework file
+- [block-03-documentation.md](block-03-documentation.md) defines how to organize the documentation of the project
 
 
 ## How to use this proejct
