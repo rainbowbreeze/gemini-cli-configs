@@ -14,4 +14,4 @@ Build the framework only when the user explicitly asks you to. Otherwise, assist
 When the user asks you to build the framework, regenerate all the files under the `output` folder, deleting the existing ones and creating new ones.
 
 This is the structure to follow to create the project files:
-- `output/GEMINI.md`: This is the main framework file for the new agent, containing all the specifications for it to follow. The instructions to create this file are in `block-01-gemini_md.md`. It is important to note that the `GEMINI.md` file you are creating in the `output` directory is intended to guide the new agent in building a software project, not to build the framework itself.
+- `output/GEMINI.md`: This is the main framework file for the new agent, containing all the specifications for it to follow. The instructions to create this file are in `howto_build_gemini_md.md`. It is important to note that the `GEMINI.md` file you are creating in the `output` directory is intended to guide the new agent in building a software project, not to build the framework itself.

@@ -10,9 +10,10 @@ Yep, kind of very meta ;)
 
 - [GEMINI.md](GEMINI.md) contain the prompt to combine the guidelines building block and assemble the final framework in the `output` directory
 
-- [block-01-framework_version.md](block-01-framework_version.md) contain the version of the framework
-- [block-01-gemini_md.md](block-01-gemini_md.md) defines the instuctions to build the final GEMINI.md framework file
-- [block-03-documentation.md](block-03-documentation.md) defines how to organize the documentation of the project
+- [howto_build_gemini_md.md](howto_build_gemini_md.md) defines the instuctions to build the final GEMINI.md framework file
+- [block-framework_version.md](block-framework_version.md) contain the version of the framework
+- [block-personas.md](block-personas.md) defines the personas for the gemini cli agent
+- [block-documentation.md](block-documentation.md) defines how to organize the documentation of the project
 
 
 ## How to use this proejct
