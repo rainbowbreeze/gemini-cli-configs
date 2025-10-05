@@ -1,4 +1,4 @@
-# Block - Project Documentation
+# Project Documentation
 
 Comprehensive documentation is mandatory. For any new project, you will create a `README.md` file and a `/docs` folder if one doesn't exist. The creation and level of detail of the following documents should be proportional to the scale and complexity of the project. For small tasks or scripts, updating the `README.md` and providing clear code comments may be sufficient.
 
