@@ -1,3 +1,6 @@
 
 # Output directory for the framework files
-output
+output/*
+
+# Directory with temp files using to take notes, save snippets, etc
+temp_in_progress/*
