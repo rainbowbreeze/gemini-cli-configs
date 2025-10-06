@@ -28,11 +28,14 @@ The `GEMINI.md` file must be generated with the following sections in the specif
     *   Incorporate the tech guide `block-tech_guide.md` file.
     *   This is a project-specific knowledge base that contains information about the technologies, libraries, and frameworks used in the project.
 
+6.  **Mandatoy adherence to the PRAR directive:** 
+    *   The last session states in a very imperative way that the Gemini CLI agent must start and always adhere its interaction with the user following the PRAR directive.
+
 
 **Final Output**
 
-The final output should be a single `GEMINI.md` file in the `output` directory. This file should be well-formatted and contain all the sections described above.
+The final output should be a single `GEMINI.md` file in the `/output` directory of the project root folder. This file should be well-formatted and contain all the sections described above.
 
 
 **Final Check**
-Once built the `GEMINI.md` file in the `output` directory, perform a deep analysis of it, checking for inconsistencies and duplications. If you find them, suggestion to the user how to improve the file.
+Once built the `/output/GEMINI.md` file, perform a deep analysis of it, checking for inconsistencies and duplications. If you find them, suggestion to the user how to improve the file.
